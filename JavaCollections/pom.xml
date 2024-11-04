@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>jenkinsproject.JenkinsProject</mainClass>
+							<mainClass>package1/ArrayOfColors</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
