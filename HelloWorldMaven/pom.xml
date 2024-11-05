@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>package1/</mainClass>
+							<mainClass>package1/HelloWorldInMavenProject</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
