@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>package1/ArrayOfColors</mainClass>
+							<mainClass>package1/IterateArray</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
