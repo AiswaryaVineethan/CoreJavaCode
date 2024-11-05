@@ -20,7 +20,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass></mainClass>
+							<mainClass>package1/</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
